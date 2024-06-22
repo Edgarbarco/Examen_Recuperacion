@@ -1,0 +1,4 @@
+C:\Users\Edgar Barco\Desktop\PROGRA I\Examen Recuperacion\Examen Recuperacion\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Edgar Barco\Desktop\PROGRA I\Examen Recuperacion\Examen Recuperacion\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Edgar Barco\Desktop\PROGRA I\Examen Recuperacion\Examen Recuperacion\obj\Debug\net8.0-windows\Examen Recuperacion_MarkupCompile.cache
+C:\Users\Edgar Barco\Desktop\PROGRA I\Examen Recuperacion\Examen Recuperacion\obj\Debug\net8.0-windows\Examen Recuperacion_MarkupCompile.lref
